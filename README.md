@@ -1,5 +1,5 @@
 # 💻 MULEI DAVID 
-<h3>Software Developer</h3>
+<h3>Software Developer & Cybersecurity Analyst</h3>
 I'm a vibrant and innovative kenyan based software craftsman. My passion lies in the dynamic intersection of technology and creativity, where I thrive as a UI/UX Designer and Fullstack Software Developer.
 
 With a wealth of experience, I specialize in crafting Web-Based Software, Android Applications, and captivating UI/UX Designs. My journey in the tech world is marked by a commitment to pushing boundaries and delivering high-quality solutions that make a difference.
@@ -74,34 +74,23 @@ Let's turn ideas into reality!
  <div align="center">
 
 
-
-
-
-
 ---
 ## 🥉 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1018839116756025424) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/danielmuasa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muasa__jnr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielmuasa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@muasajnr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enshikuku) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@enshikuku) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/enshikuku) 
-
----
-## Currently working on
-<a href="https://github.com/orgs/calatech"><img src='https://res.cloudinary.com/dlkqilyi0/image/upload/v1719393138/COVER_lbmnif.png'></a>
-
----
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]() [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enshikuku) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]() [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]() 
 
 ---
 ## ✳ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muasajnr&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MULEI-DAVID&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&theme=blue_navy&hide_border=false)<br/>
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muasajnr&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MULEI-DAVID&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muasajnr&theme=blue_navy&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MULEI-DAVID&theme=blue_navy&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 ## 📖 Random Dev Quote
@@ -109,7 +98,7 @@ Let's turn ideas into reality!
 
 ---
 ## 🔝 Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muasajnr&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MULEI-DAVID&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
 ### [![](https://visitcount.itsvg.in/api?id=muasajnr&icon=1&color=1)](https://visitcount.itsvg.in)
