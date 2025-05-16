@@ -83,7 +83,7 @@ Let's turn ideas into reality!
 ![](https://github-readme-stats.vercel.app/api?username=MULEI-DAVID&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
-![](https://github-readme-streak-stats.herokuapp.com/?user=muasajnr&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MULEI-DAVID&theme=blue_navy&hide_border=false)<br/>
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MULEI-DAVID&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -96,10 +96,5 @@ Let's turn ideas into reality!
 ## 📖 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-## 🔝 Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MULEI-DAVID&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
----
-### [![](https://visitcount.itsvg.in/api?id=muasajnr&icon=1&color=1)](https://visitcount.itsvg.in)
--->
+
