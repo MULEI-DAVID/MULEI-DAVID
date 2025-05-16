@@ -1,8 +1,10 @@
 # 💻 MULEI DAVID 
 <h3>Software Developer & Cybersecurity Analyst</h3>
-I'm a vibrant and innovative kenyan based software craftsman. My passion lies in the dynamic intersection of technology and creativity, where I thrive as a UI/UX Designer and Fullstack Software Developer.
+I'm a vibrant and innovative Kenyan-based software craftsman. My passion lies at the dynamic intersection of technology and creativity, where I thrive as a UI/UX Designer, Fullstack Software Developer, and Cybersecurity Analyst.
 
-With a wealth of experience, I specialize in crafting Web-Based Software, Android Applications, and captivating UI/UX Designs. My journey in the tech world is marked by a commitment to pushing boundaries and delivering high-quality solutions that make a difference.
+With a wealth of experience, I specialize in crafting Web-Based Software, Android Applications, and captivating UI/UX Designs. As a Cybersecurity Analyst, I’m deeply invested in safeguarding digital ecosystems by identifying vulnerabilities, implementing robust security measures, and ensuring data integrity.
+
+My journey in the tech world is marked by a commitment to pushing boundaries, delivering high-quality solutions, and making a real difference in how people interact with technology—securely and intuitively.
 
 In the ever-evolving landscape of technology, my skill set serves as a testament to a journey marked by dedication, proficiency, and a passion for innovation. Here's a glimpse into the toolbox that powers my endeavors:
 
@@ -76,7 +78,7 @@ Let's turn ideas into reality!
 
 ---
 ## 🥉 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]() [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enshikuku) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]() [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]() 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/david-mulei-0b3a7030a) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]() [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]() [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]() 
 
 ---
 ## ✳ GitHub Stats:
